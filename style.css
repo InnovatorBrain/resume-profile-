@@ -1,0 +1,8 @@
+.nav-link:hover{
+    font-size: large;
+    text-size-adjust: 20px;
+}
+.carousel-inner>img{
+    opacity:0.5;
+
+}
